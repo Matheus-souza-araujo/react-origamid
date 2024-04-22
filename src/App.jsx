@@ -1,7 +1,7 @@
 import React from "react";
 
 const App = () => {
-  return <a href="https://origamid.com">Origamid</a>;
+  return <div>App React</div>;
 };
 
 export default App;
